@@ -1,0 +1,9 @@
+{
+    "type":"module",
+    "devDependencies": {
+        "jest":"^29.6.1"
+    },
+    "scripts": {
+        "test": "jest"
+    }
+}
